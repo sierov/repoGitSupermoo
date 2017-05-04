@@ -1,8 +1,13 @@
 // Colors
-$deepBlue: #2b4e87;
+$deepBlue: #2b4d84;
 
+.header {
+  width: 100%;
+  background-color: $deepBlue; 
+  height: 400px;
+}
 
 h1 {
 	font-family: helvetica;
-	color: blue;
+	color: $deepBlue;
 }
